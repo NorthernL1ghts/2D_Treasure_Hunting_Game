@@ -1,0 +1,24 @@
+- 2D Treasure Game:
+	 - [x] Create game loop.
+	 - [x] Display the player character.
+	 - [x] Add player movement animations.
+	 - [x] Implement controllable player (KeyHandler's & KeyListener).
+	 - [x] Display background tiles.
+	 - [x] Implement world map.
+	 - [x] Implement world camera.
+	 - [x] Implement tile collision detection.
+	 - [x] Display objects.
+	 - [x] Implement object interaction (add's specific player events).
+	 - [x] Implement object collision.
+	 - [x] Implement music.
+	 - [x] Implement sound effects.
+	 - [x] Implement game UI (Text, notifications, game over screen, play time).
+	 - [x] Complete the first game.
+ 
+- 2D Action Game (Convert the first game to RPG type game-play):
+	- Create and implement monsters (entities).
+	- Create battle system.
+	- Create Non playable characters (NPC's).
+	- Create a inventory system.
+	- Create events (both game and Player based).
+	- Complete the second game.
